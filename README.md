@@ -30,3 +30,9 @@ python main.py
 
 Then open http://localhost:5000
  in your browser.
+
+🧠 About SIAG Software
+
+We build autonomous and ethical intelligent systems — bridging automation, AI, and software craftsmanship.
+Learn more at SIAG Software GitHub
+.
